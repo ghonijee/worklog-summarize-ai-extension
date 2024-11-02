@@ -1,5 +1,0 @@
-{
-  "content_security_policy": {
-    "extension_pages": "script-src 'self'; object-src 'self'; connect-src 'self' https://*.atlassian.net https://*.jira.com https://openrouter.ai/"
-  }
-}

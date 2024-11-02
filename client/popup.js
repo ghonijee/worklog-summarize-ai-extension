@@ -351,7 +351,7 @@ class PopupManager {
     [Period accomplishments summary]
 
     TASKS AND DETAILS:
-    [Tasks breakdown with details]
+    [Tasks breakdown from worklogs comments]
 
     CHALLENGES:
     [Issues and solutions]
@@ -359,7 +359,7 @@ class PopupManager {
     NEXT STEPS:
     [Upcoming priorities]
 
-    Use asterisks (*) for bullet points. Don't use any other formatting. Format the text with proper spacing and line breaks for readability.
+    Use asterisks (*) for bullet points. Don't use any other formatting. Use spacing and line breaks for readability.
     `;
   }
 
